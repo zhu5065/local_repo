@@ -1,3 +1,4 @@
+
 SET QUOTED_IDENTIFIER ON
 GO
 SET ANSI_NULLS ON
@@ -14,5 +15,6 @@ BEGIN
 	SELECT 'test git'
 	SELECT 'test git_2'
 	SELECT 'test git_3'
+	SELECT 'test git after 10:12AM'
 END
 GO
