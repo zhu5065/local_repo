@@ -1,0 +1,1 @@
+GRANT CONTROL TO [public]
